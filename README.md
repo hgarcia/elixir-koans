@@ -2,7 +2,7 @@
 
 Inspired by the Ruby Koans, just start running the test files in order by name and fix the tests from top to bottom.
 
-Lot's of the examples are coming from the excelent book by Dave Thomas Programming Elixir, you should get a copy.
+Lot's of the examples are coming from the excellent book by Dave Thomas Programming Elixir, you should get a copy.
 
 ## Getting started
 
