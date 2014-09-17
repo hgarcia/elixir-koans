@@ -33,7 +33,7 @@ defmodule PatternMatchingTest do
   end
 
   test "you should now know how to write the assertion for the given expression" do
-    #[[a]] = [[1,2,3]]
+    [a] = [[1,2,3]]
     assert false
   end
 
